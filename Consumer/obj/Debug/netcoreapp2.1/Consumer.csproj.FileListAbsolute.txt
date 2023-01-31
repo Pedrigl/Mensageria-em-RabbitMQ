@@ -1,0 +1,13 @@
+D:\Users\Pedro\Source\repos\Consumer\bin\Debug\netcoreapp2.1\Consumer.deps.json
+D:\Users\Pedro\Source\repos\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.json
+D:\Users\Pedro\Source\repos\Consumer\bin\Debug\netcoreapp2.1\Consumer.runtimeconfig.dev.json
+D:\Users\Pedro\Source\repos\Consumer\bin\Debug\netcoreapp2.1\Consumer.dll
+D:\Users\Pedro\Source\repos\Consumer\bin\Debug\netcoreapp2.1\Consumer.pdb
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.AssemblyReference.cache
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfoInputs.cache
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.AssemblyInfo.cs
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.csproj.CoreCompileInputs.cache
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.dll
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.pdb
+D:\Users\Pedro\Source\repos\Consumer\obj\Debug\netcoreapp2.1\Consumer.genruntimeconfig.cache

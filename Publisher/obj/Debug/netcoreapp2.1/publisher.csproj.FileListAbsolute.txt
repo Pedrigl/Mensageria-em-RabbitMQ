@@ -1,0 +1,13 @@
+D:\Users\Pedro\Source\repos\publisher\bin\Debug\netcoreapp2.1\publisher.deps.json
+D:\Users\Pedro\Source\repos\publisher\bin\Debug\netcoreapp2.1\publisher.runtimeconfig.json
+D:\Users\Pedro\Source\repos\publisher\bin\Debug\netcoreapp2.1\publisher.runtimeconfig.dev.json
+D:\Users\Pedro\Source\repos\publisher\bin\Debug\netcoreapp2.1\publisher.dll
+D:\Users\Pedro\Source\repos\publisher\bin\Debug\netcoreapp2.1\publisher.pdb
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.csproj.AssemblyReference.cache
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.AssemblyInfoInputs.cache
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.AssemblyInfo.cs
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.csproj.CoreCompileInputs.cache
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.dll
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.pdb
+D:\Users\Pedro\Source\repos\publisher\obj\Debug\netcoreapp2.1\publisher.genruntimeconfig.cache
